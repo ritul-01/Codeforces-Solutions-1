@@ -6,7 +6,7 @@ int main()
     char s[100000];
     while(cin>>s)
     {
-        l=strlen(s);
+        l=strlen(s)
         for(i=0; i<l; i++)
         {
             if(s[i]=='z')
